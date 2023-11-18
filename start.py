@@ -16,21 +16,7 @@ from socket import (AF_INET, IP_HDRINCL, IPPROTO_IP, IPPROTO_TCP, IPPROTO_UDP, S
                     gethostname, socket)
 from ssl import CERT_NONE, SSLContext, create_default_context
 from struct import pack as data_pack
-from subprocess import run, PIPE
-from sys import argv
-from sys import exit as _exit
-from threading import Event, Thread
-from time import sleep, time
-from typing import Any, List, Set, Tuple
-from urllib import parse
-from uuid import UUID, uuid4
-
-from PyRoxy import Proxy, ProxyChecker, ProxyType, ProxyUtiles
-from PyRoxy import Tools as ProxyTools
-from certifi import where
-from cloudscraper import create_scraper
-from dns import resolver
-from icmplib import ping
+from subprocess
 from impacket.ImpactPacket import IP, TCP, UDP, Data, ICMP
 from psutil import cpu_percent, net_io_counters, process_iter, virtual_memory
 from requests import Response, Session, exceptions, get, cookies
