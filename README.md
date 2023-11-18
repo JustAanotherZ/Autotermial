@@ -1,4 +1,4 @@
-Mod Name: AutoTerminal+
+Mod Name: VSL Secretes
 
 Description:
 
@@ -29,7 +29,7 @@ Simplify the crafting process with AutoTerminal+. The mod assists you in gatheri
 
 Security Features:
 AutoTerminal+ prioritizes security. The mod complies with Hypixel's rules and regulations, ensuring a safe and fair gaming experience. Rest assured, your account remains secure while enjoying the benefits of this powerful tool.
-
+#use                 at              own                                   risk
 Upgrade your Hypixel gameplay with AutoTerminal+ and revolutionize the way you interact with the in-game economy. Save time, make smarter decisions, and dominate the markets like never before! Note: Always use mods responsibly and in accordance with the terms of service of the gaming platform.
 
 
