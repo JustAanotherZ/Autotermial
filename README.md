@@ -1,36 +1,33 @@
-Mod Name: VSL Secretes
+
+Certainly! Creating a Git description for the "BetterMap" mod for Hypixel Dungeons involves summarizing the purpose and features of the mod. Here's an example:
+
+BetterMap for Hypixel Dungeons
 
 Description:
 
-Introducing AutoTerminal+, the ultimate enhancement for your Hypixel experience! Take your gameplay to the next level with this powerful mod designed to streamline your interactions with Hypixel's terminals and make your in-game activities more efficient than ever.
+Enhance your Hypixel Dungeons experience with BetterMap, a mod designed to improve the in-game map functionality. This mod introduces several features to make navigation and exploration more intuitive and enjoyable. With BetterMap, you can expect:
 
-Key Features:
+Detailed Map Annotations: Mark important locations, bosses, and secrets on the map for easy reference during your dungeon adventures.
 
-Automatic Auction House Navigation:
-Navigate the Hypixel Auction House effortlessly with AutoTerminal+. The mod intelligently analyzes the market and automatically guides you to the most relevant sections, saving you time and ensuring you stay ahead of the competition.
+Custom Waypoints: Create personalized waypoints to guide you through intricate dungeons or to highlight areas of interest.
 
-Smart Bidding System:
-Bid strategically with the mod's smart bidding system. AutoTerminal+ evaluates market trends, suggests optimal bid amounts, and even allows you to set custom bidding strategies to maximize your chances of winning auctions.
+Enhanced Visibility: Improve map clarity with adjustable transparency settings, ensuring that you can focus on the details that matter.
 
-Efficient Inventory Management:
-Tired of sorting through your inventory manually? AutoTerminal+ offers an advanced inventory management system, automatically organizing and categorizing items based on their value, rarity, or other customizable criteria.
+User-Friendly Interface: A streamlined and intuitive interface makes BetterMap easy to use, even for players new to modding.
 
-Real-time Price Tracking:
-Stay informed about market prices with real-time updates. AutoTerminal+ provides instant price information for items, helping you make informed decisions and capitalize on market fluctuations.
+Upgrade your Hypixel Dungeons gameplay with BetterMap and conquer the depths like never before. Explore confidently, discover hidden treasures, and navigate dungeons with precision!
 
-Customizable User Interface:
-Tailor the mod to suit your preferences. Customize the user interface to display the information you need, where you need it, ensuring a seamless and personalized experience.
+Installation:
 
-One-Click Quick Sell:
-Clear out your inventory with a single click. AutoTerminal+ streamlines the selling process, allowing you to quickly list items for sale without the hassle of manual input.
+Download and install Forge for Minecraft.
+Download the BetterMap mod from the official repository.
+Place the mod file in the "mods" folder of your Minecraft installation.
+Launch Minecraft with the Forge profile and enjoy the enhanced map features.
+For more information, bug reports, or updates, visit the official BetterMap repository: [GitHub Repository Link]
 
-Enhanced Crafting Assistance:
-Simplify the crafting process with AutoTerminal+. The mod assists you in gathering necessary materials, providing crafting recipes, and even automatically locating crafting stations.
+Note: BetterMap is a community-driven project and is not affiliated with or endorsed by Hypixel Studios.
 
-Security Features:
-AutoTerminal+ prioritizes security. The mod complies with Hypixel's rules and regulations, ensuring a safe and fair gaming experience. Rest assured, your account remains secure while enjoying the benefits of this powerful tool.
-#use                 at              own                                   risk
-Upgrade your Hypixel gameplay with AutoTerminal+ and revolutionize the way you interact with the in-game economy. Save time, make smarter decisions, and dominate the markets like never before! Note: Always use mods responsibly and in accordance with the terms of service of the gaming platform.
+Feel free to customize this description based on the specific features and details of the "BetterMap" mod for Hypixel Dungeons.
 
 
 
